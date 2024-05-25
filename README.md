@@ -21,4 +21,22 @@ I wanted to try the same for Python.
 <br>
 <br>
 This is a simple implementation of a singly linked-list in Python.
+<br>
+<br>
 
+## **smorse.py**
+While still learning, I stumbled upon a subreddit r/dailyprogrammer.
+<br>
+<br>
+The problem reads:
+For the purpose of this challenge, Morse code represents every letter as a sequence of 1-4 characters,
+<br>
+each of which is either . (dot) or - (dash). The code for the letter a is .-, for b is -..., etc.
+<br>
+<br>
+So the goal is to create a function that converts a string to smorse code.
+<br>
+Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/?rdt=63439).
+<br>
+<br>
+The code here is a solution to the problem and sub-problem.
