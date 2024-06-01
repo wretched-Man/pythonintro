@@ -1,7 +1,7 @@
 # pythonintro
 I have recently started learning python, moving from C++. So, these are the codes I have been writing while learning.
 <br>
-Here is a brief decripiton of what you will find in each file:
+Here is a brief description of what you will find in each file:
 <br>
 <br>
 ## **compare_fib.py**
