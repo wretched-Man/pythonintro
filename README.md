@@ -40,3 +40,57 @@ Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/2019
 <br>
 <br>
 The code here is a solution to the problem and sub-problem.
+<br>
+<br>
+
+## **caesar_cipher.py**
+This is also a problem I found on r/dailyprogrammer (also the one mentioned below).
+<br>
+<br>
+The problem involves creating one of the oldest cipher's known.
+<br>
+I have implemented a text encoder and a brute-force matching decoder. The documentation is provided within the file.
+<br>
+<br>
+Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/t33vi/522012_challenge_47_easy/) for further information.
+<br>
+<br>
+
+## **abundant_nums.py**
+I also found this problem on r/dailyprogrammer.
+<br>
+All the documentation and code in the file as well as explanations.
+An abundant number is a number whose sum of divisors exceeds the number itself.
+<br>
+<br>
+Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/3uuhdk/20151130_challenge_243_easy_abundant_and/) for further information.
+<br>
+<br>
+
+## **make_palindrome.py**
+I also found this problem on r/dailyprogrammer.
+<br>
+Given a number, n, make it into a palindrome. Take n, and add it to its reverse repeatedly until the new n
+<br>
+is a plaindrome. List out the number of steps taken to achieve this.
+<br>
+<br>
+Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/38yy9s/20150608_challenge_218_easy_making_numbers/) for further information.
+<br>
+<br>
+
+## **isbn.py**
+I also found this problem on r/dailyprogrammer.
+<br>
+Given a string with specific constraints, verify if it is an ISBN number.
+<br>
+<br>
+Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/) for further information.
+
+## **div_seven.py**
+Also from Reddit.
+<br>
+In this code, a number joins the list if it and its reverse are divisible by 7. The task is to find the sum of such numbers upto 10^11.
+<br>
+<br>
+Here is the [link](https://www.reddit.com/r/dailyprogrammer/comments/3irzsi/20150828_challenge_229_hard_divisible_by_7/) for further information.
