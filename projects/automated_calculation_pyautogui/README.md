@@ -1,4 +1,4 @@
-**Auto Calculator with PyAutoGUI**
+# **Auto Calculator with PyAutoGUI**
 I was learning PyAutoGUI for use with OpenCV. While at it, I decided to try a project.
 
 In this project, I use the Windows 10 calculator to automate calculations. The code takes a mathematical expression and calculates in the calculator.
